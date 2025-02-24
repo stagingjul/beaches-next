@@ -58,7 +58,7 @@ const navigation2: NavigationItem[] = [
     children: [
       {
         name: "Master Data",
-        href: "/products",
+        href: "/productsfjkd",
         active: false,
       },
       {
